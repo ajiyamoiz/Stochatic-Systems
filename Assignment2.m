@@ -1,4 +1,4 @@
-% Ajiya Fatima Moiz      399946
+% Ajiya Fatima Moiz
 
 % Generate random variable and plot bivariate Gaussian distribution (PDF) in 3D plan alongwith contours.
 
